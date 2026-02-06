@@ -1,0 +1,37 @@
+{
+  "direccion": "DAVILA 1172, CABA",
+  "smp": "044-097A-032A",
+  "coords": {
+    "x": "-58.448592",
+    "y": "-34.637643"
+  },
+  "comuna": "Comuna 7",
+  "barrio": "Parque Chacabuco",
+  "superficie_parcela_m2": 222.5,
+  "altura_max_plano_limite_m": 14.6,
+  "fot": {
+    "medianera": 2.79,
+    "semi_libre": 2.79,
+    "perim_libre": 2.79
+  },
+  "m2_estimados_por_fot": 620.8,
+  "distrito_cpu_historico": "R2a II",
+  "afectaciones": {
+    "riesgo_hidrico": 0,
+    "ensanche": 0,
+    "apertura": 0,
+    "lep": 0,
+    "ci_digital": 0
+  },
+  "observaciones": {
+    "adps": "SI",
+    "irregular": false,
+    "tipica": "T",
+    "rivolta": 0
+  },
+  "links": {
+    "croquis_parcela_pdf": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/87/044-097A-032a_0000058387.pdf",
+    "plano_indice_pdf": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-097A-V2.pdf",
+    "perimetro_manzana_img": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-097A-V0.jpg"
+  }
+}
