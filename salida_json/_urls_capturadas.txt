@@ -1,5 +1,5 @@
 https://ciudad3d.buenosaires.gob.ar/configBase.json
-https://servicios.usig.buenosaires.gob.ar/callejero?full=1&encoding=utf-8&minusculas=1&date=1770416187499
+https://servicios.usig.buenosaires.gob.ar/callejero?full=1&encoding=utf-8&minusculas=1&date=1770761036304
 https://epok.buenosaires.gob.ar/catastroinformal/direccioninformal/?calle=D%C3%A1vila&puerta=1172
 https://servicios.usig.buenosaires.gob.ar/normalizar/?direccion=Davila%201172&geocodificar=true&srid=4326
 https://ws.usig.buenosaires.gob.ar/datos_utiles?x=-58.448442681020616&y=-34.63759575259729
