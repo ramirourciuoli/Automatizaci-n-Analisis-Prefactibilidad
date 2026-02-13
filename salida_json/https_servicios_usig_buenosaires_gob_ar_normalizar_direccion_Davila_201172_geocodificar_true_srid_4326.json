@@ -19,14 +19,9 @@
     },
     {
       "altura": 1172,
-      "cod_calle": 156412,
+      "cod_calle": 165918,
       "cod_calle_cruce": null,
       "cod_partido": "la_matanza",
-      "coordenadas": {
-        "srid": 4326,
-        "x": -58.6250624714286,
-        "y": -34.6928572714286
-      },
       "direccion": "Davila 1172, La Matanza",
       "nombre_calle": "Davila",
       "nombre_calle_cruce": "",
